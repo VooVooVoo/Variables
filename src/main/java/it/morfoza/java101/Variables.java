@@ -102,16 +102,8 @@ public class Variables {
             System.out.println("Equal");
         } else {
             System.out.println("Get offf");
-        }if(d2==o2) {
-            System.out.println("Equal");
-        } else {
-            System.out.println("Get offf");
         }
-        if(o2==bool2) {
-            System.out.println("Equal");
-        } else {
-            System.out.println("Get offf");
-        }
+
 
 
     }
